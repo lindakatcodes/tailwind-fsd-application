@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-app",
+  "version": "1.0.0",
+  "description": "Application for the Tailwind CSS Full Stack Developer position",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Linda Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
